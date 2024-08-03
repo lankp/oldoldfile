@@ -11,6 +11,13 @@ redirect_from:
 - Much of my work focuses on the application of derived categories to problems in both algebraic geometry and commutative algebra. 
 - A copy of my CV may be found [here](lankp.github.io/files/Lank-CV.pdf).
 
+Research
+==
+- Published
+  - Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
+- Preprints
+  - "High Frobenius Pushforwards generate the bounded derived category" joint with [Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), and [Josh Pollitz](https://www.joshpollitz.com/), [arXiv version](https://arxiv.org/abs/2303.18085)
+  - 
 Teaching
 ==
 
