@@ -27,6 +27,16 @@ Research
    - "Classification and nonexistence results for tensor t-structures on derived categories of schemes" joint with [Rudradip Biswas](https://sites.google.com/view/rudradip-biswas/home), [Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), and [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)
    - "Approximability and Rouquier dimension for noncommuative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
    - "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about)
+
+
+Organization
+===
+- AMS Special Session on Derived Categories, Arithmetic, and Geometry at the JMM in [January 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title)
+- SCAGNT Student seminar at the University of South Carolina
+  - [Fall 2022](https://www.scagnt.org/student_seminar/) (w/ a focus on geometric invariant theory)
+  - [Spring 2022](https://www.scagnt.org/student_seminar/spring/2022/index.html)
+  - [Fall 2021](https://www.scagnt.org/student_seminar/fall/2021/index.html)	
+- Uniersity of South Carolina Graduate Colloquium, [Spring 2023](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023)
    
 Teaching
 ==
@@ -43,12 +53,3 @@ Teaching
   - MATH 180 - Calculus I, Summer 2020
   - MATH 121 - College Algebra, Fall 2017
   - MATH 101, 102, 103 - Intermediate Algebra Part I, II, III, Fall 2018
-
-Organization
-===
-- AMS Special Session on Derived Categories, Arithmetic, and Geometry at the JMM in [January 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title)
-- SCAGNT Student seminar at the University of South Carolina
-  - [Fall 2022](https://www.scagnt.org/student_seminar/) (w/ a focus on geometric invariant theory)
-  - [Spring 2022](https://www.scagnt.org/student_seminar/spring/2022/index.html)
-  - [Fall 2021](https://www.scagnt.org/student_seminar/fall/2021/index.html)	
-- Uniersity of South Carolina Graduate Colloquium, [Spring 2023](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023)
