@@ -2,7 +2,7 @@
 title: "Descent conditions for generation in derived categories"
 collection: publications
 excerpt: ''
-permalink: /publication/Descent conditions for generation in derived categories
+permalink: 
 date: 09-2024
 venue: 'Journal Pure and Applied Algebra'
 paperurl: 'https://doi.org/10.1016/j.jpaa.2024.107671'
