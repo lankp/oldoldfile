@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Descent conditions for generation in derived categories"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/Descent conditions for generation in derived categories
+excerpt: ''
+date: 09-2024
+venue: '.Pure Appl. Algebra'
+preprinturl: 'https://doi.org/10.1016/j.jpaa.2024.107671'
+paperurl: 'https://doi.org/10.1016/j.jpaa.2024.107671'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
