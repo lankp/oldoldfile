@@ -15,6 +15,6 @@ Organization
 ===
 Organization</strong></big><br/>
 - AMS Special Session on Derived Categories, Arithmetic, and Geometry at the JMM in [January 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title)
-- SCAGNT Student seminar at the University of South Carolina
-- - [Fall 2022](https://www.scagnt.org/student_seminar/) (w/ a focus on geometric invariant theory)
+  - SCAGNT Student seminar at the University of South Carolina
+  - [Fall 2022](https://www.scagnt.org/student_seminar/) (w/ a focus on geometric invariant theory)
 	
