@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -17,3 +18,4 @@ author_profile: true
    - "Classification and nonexistence results for tensor t-structures on derived categories of schemes" joint with [Rudradip Biswas](https://sites.google.com/view/rudradip-biswas/home), [Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), and [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)
    - "Approximability and Rouquier dimension for noncommuative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
    - "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about)
+
