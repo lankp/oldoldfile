@@ -17,5 +17,5 @@ redirect_from:
 [Organization](/_pages/organization.md)
 ===
 
-[Teaching]((/_pages/teaching.md)
+[Teaching](/_pages/teaching.md)
 ==
