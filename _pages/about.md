@@ -11,11 +11,11 @@ redirect_from:
 - Much of my work focuses on the application of derived categories to problems in both algebraic geometry and commutative algebra. 
 - A copy of my CV may be found [here](/LankCV.pdf).
 
-[Research](/_pages/research.md)
+[Research](/research.md)
 ==
 
-[Organization](/_pages/organization.md)
+[Organization](/organization.md)
 ===
 
-[Teaching](/_pages/teaching.md)
+[Teaching](/teaching.md)
 ==
